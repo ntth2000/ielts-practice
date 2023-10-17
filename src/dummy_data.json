@@ -1,0 +1,164 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "Technology",
+      "questions": [
+        "How often do you use technology in your daily life?",
+        "What is your favorite technological gadget and why?",
+        "How has technology changed the way people communicate?",
+        "Do you think technology has more positive or negative effects on society?",
+        "How do you keep up with the latest technological trends?",
+        "Can you live without a smartphone? Why or why not?",
+        "How has technology affected education in your opinion?",
+        "What technological advancements do you expect in the future?",
+        "Is it important for everyone to be technologically literate?",
+        "How can technology be used to address environmental issues?"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Travel and Adventure",
+      "questions": [
+        "What kind of places do you like to visit on vacation?",
+        "Do you prefer to travel alone or with others? Why?",
+        "How has travel changed over the past decade?",
+        "What is your most memorable travel experience and why?",
+        "Do you think it's important to travel to other countries? Why?",
+        "How can travel contribute to personal growth?",
+        "What challenges do people face when traveling to a new country?",
+        "How do you prepare for a trip or vacation?",
+        "Is it better to explore a new place on your own or with a guided tour?",
+        "What impact does tourism have on local communities?"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Family and Relationships",
+      "questions": [
+        "What role do family values play in your life?",
+        "How has the concept of family changed in recent years?",
+        "What qualities make a strong and healthy family?",
+        "How do you balance family and work life?",
+        "In your culture, what is the importance of extended family?",
+        "How has technology affected family relationships?",
+        "What advice would you give to someone about building a successful relationship?",
+        "How do you celebrate important family events or traditions?",
+        "What are the advantages and disadvantages of having a close-knit family?",
+        "How can families support each other during difficult times?"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Environment",
+      "questions": [
+        "What are the major environmental issues in your region?",
+        "How can individuals contribute to environmental conservation?",
+        "What role should governments play in protecting the environment?",
+        "Do you think people are aware enough of the environmental problems we face?",
+        "How can businesses be more environmentally friendly?",
+        "What are the consequences of climate change, and how can we address them?",
+        "In what ways can communities promote sustainability?",
+        "Should environmental education be a mandatory part of school curricula?",
+        "How can individuals reduce their carbon footprint?",
+        "What is the importance of biodiversity, and how can it be preserved?"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Education",
+      "questions": [
+        "What are the benefits of a good education?",
+        "How has the role of teachers changed in the 21st century?",
+        "What challenges do students face in the current education system?",
+        "Is online learning as effective as traditional classroom learning?",
+        "How can schools prepare students for the challenges of the future?",
+        "What is the importance of extracurricular activities in education?",
+        "How can education contribute to social equality?",
+        "What changes would you make to the education system in your country?",
+        "Is a college degree necessary for success in today's world?",
+        "How can lifelong learning benefit individuals and society?"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Health and Well-being",
+      "questions": [
+        "How do you maintain a healthy lifestyle?",
+        "What role does exercise play in your life?",
+        "How can society promote better mental health?",
+        "What are the advantages and disadvantages of different diets?",
+        "How has the perception of mental health changed in recent years?",
+        "What can individuals do to reduce stress in their lives?",
+        "Is preventive healthcare important? Why or why not?",
+        "How can communities encourage healthier living?",
+        "What impact does technology have on our health?",
+        "Should governments play a role in promoting healthy lifestyles?"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Art and Culture",
+      "questions": [
+        "How does art contribute to society?",
+        "What is the importance of preserving cultural heritage?",
+        "How has globalization affected local cultures?",
+        "Do you think art can be a form of social or political commentary?",
+        "How has technology changed the way we consume art and culture?",
+        "What role do museums and galleries play in preserving art and culture?",
+        "In what ways can individuals support and promote local artists?",
+        "How can art be used to bridge cultural gaps?",
+        "Is it important for people to be familiar with the art and culture of other countries?",
+        "How can art education benefit children and communities?"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Work and Career",
+      "questions": [
+        "What factors do you consider when choosing a career?",
+        "How has the nature of work changed in recent years?",
+        "What skills do you think are essential for success in the workplace?",
+        "How can individuals achieve a work-life balance?",
+        "Do you think job satisfaction is more important than a high salary?",
+        "How can businesses create a positive work environment?",
+        "What challenges do people face when pursuing their dream careers?",
+        "How important is continuous learning in one's career?",
+        "What role does networking play in career development?",
+        "How can workplaces promote diversity and inclusion?"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Hobbies and Leisure Activities",
+      "questions": [
+        "What hobbies do you enjoy in your free time?",
+        "How do hobbies contribute to personal well-being?",
+        "Do you think it's important for people to have hobbies?",
+        "How has technology influenced leisure activities?",
+        "In what ways do hobbies provide a break from the stresses of daily life?",
+        "How can individuals discover new and interesting hobbies?",
+        "What role do hobbies play in building social connections?",
+        "Do you think hobbies can turn into profitable careers?",
+        "How can communities support and encourage diverse leisure activities?",
+        "What are the benefits of spending time in nature as a leisure activity?"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Social Issues",
+      "questions": [
+        "What social issues concern you the most?",
+        "How can individuals contribute to addressing social problems?",
+        "What role should governments play in addressing social inequality?",
+        "Do you think social media has a positive or negative impact on society?",
+        "How can communities foster inclusivity and equality?",
+        "In your opinion, what is the root cause of poverty?",
+        "How can education help alleviate social issues?",
+        "What are the challenges faced by marginalized communities?",
+        "How can individuals promote tolerance and understanding?",
+        "What role do businesses play in addressing social and economic issues?"
+      ]
+    }
+  ]
+}
